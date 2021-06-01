@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practical05</string>
+    <string name="empid">qwertyu</string>
+    <string name="name">qwerh</string>
+    <string name="salary">12345</string>
+    <string name="add">2345</string>
+    <string name="delete">234</string>
+    <string name="modify">12345</string>
+    <string name="view">1234</string>
+    <string name="view_all">123456</string>
+</resources>
